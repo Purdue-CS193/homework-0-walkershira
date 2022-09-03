@@ -1,3 +1,7 @@
+# Walker's First CS193 Homework
+- I enjoy that it is more laid back then other classes
+- The games are fun
+- the class is pretty short and only one credit
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
